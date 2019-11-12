@@ -27,14 +27,14 @@ public class ventanaPrincipal extends javax.swing.JFrame {
     // <editor-fold defaultstate="collapsed" desc="Generated Code">//GEN-BEGIN:initComponents
     private void initComponents() {
 
-        jpanelTemporalizador2 = new componentetemporizador.JpanelTemporalizador();
+        jpanelTemporalizador1 = new componentetemporizador.JpanelTemporalizador();
 
         setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
 
-        jpanelTemporalizador2.setImagen(new java.io.File("C:\\Users\\Eduardo\\Pictures\\142832674.jpg"));
-        jpanelTemporalizador2.setMostrarDecimales(true);
-        jpanelTemporalizador2.setNumSegundos(5.0);
-        jpanelTemporalizador2.setTextoFin("Fin");
+        jpanelTemporalizador1.setImagen(new java.io.File("C:\\Users\\Eduardo\\Pictures\\arbol.png"));
+        jpanelTemporalizador1.setMostrarDecimales(true);
+        jpanelTemporalizador1.setNumSegundos(5.0);
+        jpanelTemporalizador1.setTextoFin("Fin");
 
         javax.swing.GroupLayout layout = new javax.swing.GroupLayout(getContentPane());
         getContentPane().setLayout(layout);
@@ -42,14 +42,15 @@ public class ventanaPrincipal extends javax.swing.JFrame {
             layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGroup(javax.swing.GroupLayout.Alignment.TRAILING, layout.createSequentialGroup()
                 .addContainerGap(javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
-                .addComponent(jpanelTemporalizador2, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE)
+                .addComponent(jpanelTemporalizador1, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE)
                 .addContainerGap())
         );
         layout.setVerticalGroup(
             layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGroup(layout.createSequentialGroup()
-                .addComponent(jpanelTemporalizador2, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE)
-                .addGap(0, 0, Short.MAX_VALUE))
+            .addGroup(javax.swing.GroupLayout.Alignment.TRAILING, layout.createSequentialGroup()
+                .addContainerGap(javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
+                .addComponent(jpanelTemporalizador1, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE)
+                .addContainerGap())
         );
 
         pack();
@@ -91,6 +92,6 @@ public class ventanaPrincipal extends javax.swing.JFrame {
     }
 
     // Variables declaration - do not modify//GEN-BEGIN:variables
-    private componentetemporizador.JpanelTemporalizador jpanelTemporalizador2;
+    private componentetemporizador.JpanelTemporalizador jpanelTemporalizador1;
     // End of variables declaration//GEN-END:variables
 }
