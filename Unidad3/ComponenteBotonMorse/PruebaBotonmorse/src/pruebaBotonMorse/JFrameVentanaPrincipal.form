@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Form version="1.3" maxVersion="1.9" type="org.netbeans.modules.form.forminfo.JFrameFormInfo">
+  <Properties>
+    <Property name="defaultCloseOperation" type="int" value="3"/>
+  </Properties>
+  <SyntheticProperties>
+    <SyntheticProperty name="formSizePolicy" type="int" value="1"/>
+    <SyntheticProperty name="generateCenter" type="boolean" value="false"/>
+  </SyntheticProperties>
+  <AuxValues>
+    <AuxValue name="FormSettings_autoResourcing" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_autoSetComponentName" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_generateFQN" type="java.lang.Boolean" value="true"/>
+    <AuxValue name="FormSettings_generateMnemonicsCode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_i18nAutoMode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_layoutCodeTarget" type="java.lang.Integer" value="1"/>
+    <AuxValue name="FormSettings_listenerGenerationStyle" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_variablesLocal" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_variablesModifier" type="java.lang.Integer" value="2"/>
+  </AuxValues>
+
+  <Layout>
+    <DimensionLayout dim="0">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" alignment="1" attributes="0">
+              <EmptySpace pref="59" max="32767" attributes="0"/>
+              <Component id="botonMorse" min="-2" pref="135" max="-2" attributes="0"/>
+              <EmptySpace min="-2" pref="56" max="-2" attributes="0"/>
+          </Group>
+      </Group>
+    </DimensionLayout>
+    <DimensionLayout dim="1">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" alignment="1" attributes="0">
+              <EmptySpace pref="74" max="32767" attributes="0"/>
+              <Component id="botonMorse" min="-2" pref="21" max="-2" attributes="0"/>
+              <EmptySpace max="-2" attributes="0"/>
+          </Group>
+      </Group>
+    </DimensionLayout>
+  </Layout>
+  <SubComponents>
+    <Component class="componenteBotonMorse.BotonMorse" name="botonMorse">
+      <Properties>
+        <Property name="duracionpulsaciones" type="componenteBotonMorse.DuracionPulsaciones" editor="componenteBotonMorse.DuracionPulsacionesPropertyEditorSupport">
+          <SerializedValue value="-84,-19,0,5,115,114,0,40,99,111,109,112,111,110,101,110,116,101,66,111,116,111,110,77,111,114,115,101,46,68,117,114,97,99,105,111,110,80,117,108,115,97,99,105,111,110,101,115,2,-55,39,-123,-8,-126,31,98,2,0,2,73,0,22,100,117,114,97,99,105,111,110,80,117,108,115,97,99,105,111,110,67,111,114,116,97,73,0,22,100,117,114,97,99,105,111,110,80,117,108,115,97,99,105,111,110,76,97,114,103,97,120,112,0,0,3,-24,0,0,11,-72"/>
+        </Property>
+      </Properties>
+    </Component>
+  </SubComponents>
+</Form>
