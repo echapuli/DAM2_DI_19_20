@@ -48,7 +48,7 @@ public class PanelImagen extends JPanel implements Serializable{  //en este caso
                //debeis buscar por internet como cambiar la opacidad de una imagen
                Graphics2D g = (Graphics2D)grphcs;
                g.setComposite(AlphaComposite.getInstance(AlphaComposite.SRC_OVER, propiedadesImagen.getOpacidad()));
-               grphcs.drawImage(imagen.getImage(), 0, 0, null);
+               grphcs.drawImage(imagen.getImage(), 0, 0, this.getWidth(), this.getHeight(), null); //ajusta la imagen al tamaño del panel
            }           
         }
 
