@@ -31,7 +31,7 @@ public class VentanaPrincipal extends javax.swing.JFrame {
 
         setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
 
-        panelImagen1.setPropiedadesImagen(new panelimagen.ImagenFondo(new java.io.File("C:\\Users\\Eduardo\\Pictures\\arbol.png"),0.82f));
+        panelImagen1.setPropiedadesImagen(new panelimagen.ImagenFondo(new java.io.File("C:\\Users\\Eduardo\\Pictures\\camello.jpg"),0.5f));
 
         javax.swing.GroupLayout panelImagen1Layout = new javax.swing.GroupLayout(panelImagen1);
         panelImagen1.setLayout(panelImagen1Layout);
@@ -41,7 +41,7 @@ public class VentanaPrincipal extends javax.swing.JFrame {
         );
         panelImagen1Layout.setVerticalGroup(
             panelImagen1Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGap(0, 300, Short.MAX_VALUE)
+            .addGap(0, 318, Short.MAX_VALUE)
         );
 
         javax.swing.GroupLayout layout = new javax.swing.GroupLayout(getContentPane());
