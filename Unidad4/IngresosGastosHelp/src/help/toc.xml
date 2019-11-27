@@ -1,0 +1,7 @@
+<toc version="1.0">
+   <tocitem text="Tabla Contenidos - Aplicación Ingresos y Gastos" target="aplicacion">
+      <tocitem text="Ventana Principal" target="ventana_principal"/>
+      <tocitem text="Ventana de Altas" target="ventana_alta"/>
+
+   </tocitem>
+</toc>
