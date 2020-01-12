@@ -78,12 +78,12 @@ public class VentanaPrincipal extends javax.swing.JFrame {
         //al pulsar el botón mostramos el informe
         try {
             Class.forName("org.hsqldb.jdbcDriver").newInstance();   //primero se carga el driver (en este caso es de HSQLDB
-            Connection conexion=DriverManager.getConnection("jdbc:hsqldb:hsql://127.0.0.1/","sa","");  //ctreamos la conexión, los datos los sacamos del iReport en la definición del dataSource
+            Connection conexion=DriverManager.getConnection("jdbc:hsqldb:hsql://127.0.0.1/","sa","");  //creamos la conexión, los datos los sacamos del iReport en la definición del dataSource
             //ahora generamos el informe
-            //si le pasasemos parámetros utilizatriamos la clase Map de Java (la clase Map almacenapares de clave-valor    
+            //si le pasasemos parámetros utilizatriamos la clase Map de Java (la clase Map almacena pares de clave-valor    
             Map parametros=new HashMap();
             System.out.print(jComboBoxCiudad.getSelectedItem());
-            parametros.put("CIUDAD", jComboBoxCiudad.getSelectedItem());   
+            parametros.put("CIUDAD", jComboBoxCiudad.getSelectedItem());  //esta 
             //ahora vamos a utilizar la librería de Casper y para eso debemos tebnerla importada
             JasperPrint print=JasperFillManager.fillReport("informes"+File.separator+"reportPrueba.jasper", parametros,conexion);
             JasperExportManager.exportReportToPdfFile(print,"informes"+File.separator+"reportPrueba.pdf");
