@@ -82,7 +82,8 @@ public class VentanaPrincipal extends javax.swing.JFrame {
             //ahora generamos el informe
             //si le pasasemos parámetros utilizatriamos la clase Map de Java (la clase Map almacenapares de clave-valor    
             Map parametros=new HashMap();
-            parametros.put("ciudad", jComboBoxCiudad.getSelectedItem());   
+            System.out.print(jComboBoxCiudad.getSelectedItem());
+            parametros.put("CIUDAD", jComboBoxCiudad.getSelectedItem());   
             //ahora vamos a utilizar la librería de Casper y para eso debemos tebnerla importada
             JasperPrint print=JasperFillManager.fillReport("informes"+File.separator+"reportPrueba.jasper", parametros,conexion);
             JasperExportManager.exportReportToPdfFile(print,"informes"+File.separator+"reportPrueba.pdf");

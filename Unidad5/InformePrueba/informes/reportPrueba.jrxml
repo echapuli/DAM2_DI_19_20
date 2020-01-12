@@ -3,9 +3,9 @@
 	<property name="ireport.zoom" value="1.0"/>
 	<property name="ireport.x" value="0"/>
 	<property name="ireport.y" value="0"/>
-	<parameter name="ciudad" class="java.lang.String"/>
+	<parameter name="CIUDAD" class="java.lang.String"/>
 	<queryString>
-		<![CDATA[select * from address where city=$P{ciudad} order by city]]>
+		<![CDATA[select * from address where CITY=$P{CIUDAD} order by city]]>
 	</queryString>
 	<field name="ID" class="java.lang.Integer"/>
 	<field name="FIRSTNAME" class="java.lang.String"/>
