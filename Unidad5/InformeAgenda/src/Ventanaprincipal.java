@@ -69,7 +69,7 @@ public class Ventanaprincipal extends javax.swing.JFrame {
         //al pulsar el botón mostramos el informe
         try {
             Class.forName("com.mysql.jdbc.Driver").newInstance();   //primero se carga el driver (en este caso es de HSQLDB
-                    Connection conexion=DriverManager.getConnection("jdbc:mysql://localhost/agenda","Chapu","Prueba@1234");  //ctreamos la conexión, los datos los sacamos del iReport en la definición del dataSource
+                    Connection conexion=DriverManager.getConnection("jdbc:mysql://192.168.8.49:3306/Agenda","usuario","1234");  //ctreamos la conexión, los datos los sacamos del iReport en la definición del dataSource
                                                                                                                       //Debeis poner vuestro usuario y contraseña
                     //ahora generamos el informe
                     // Cuando se utilizan SubReport se crea automaticamente un parámetro SUBREPORT_DIR con la ruta donde estan los subreport
