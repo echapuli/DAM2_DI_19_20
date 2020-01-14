@@ -4,7 +4,7 @@
 	<property name="ireport.x" value="0"/>
 	<property name="ireport.y" value="0"/>
 	<parameter name="SUBREPORT_DIR" class="java.lang.String" isForPrompting="false">
-		<defaultValueExpression><![CDATA["C:\\Users\\Eduardo\\Documents\\DAM2_DI_19_20\\Unidad5\\InformeAgenda\\informes\\"]]></defaultValueExpression>
+		<defaultValueExpression><![CDATA["C:\\Users\\eduar\\OneDrive\\Documentos\\DAM2_DI_19_20\\Unidad5\\InformeAgenda\\informes\\"]]></defaultValueExpression>
 	</parameter>
 	<queryString>
 		<![CDATA[SELECT * FROM CONTACTOS;]]>
@@ -39,7 +39,7 @@
 		<band height="12" splitType="Stretch"/>
 	</columnHeader>
 	<detail>
-		<band height="159" splitType="Stretch">
+		<band height="97" splitType="Stretch">
 			<frame>
 				<reportElement mode="Opaque" x="0" y="20" width="555" height="26" forecolor="#FFFFFF" backcolor="#3399FF" uuid="230cf2e2-ec0a-47c9-a628-a6ebe96e6dff"/>
 				<textField>
@@ -68,17 +68,21 @@
 				<text><![CDATA[CIUDAD]]></text>
 			</staticText>
 			<line>
-				<reportElement positionType="Float" x="0" y="156" width="555" height="1" uuid="0bfb1275-d3a7-45d5-8cce-752528f938c0"/>
+				<reportElement positionType="Float" x="0" y="93" width="555" height="1" uuid="0bfb1275-d3a7-45d5-8cce-752528f938c0"/>
 			</line>
 			<subreport>
-				<reportElement x="1" y="46" width="270" height="100" uuid="eefe9c6c-7637-49a6-8de2-f6b4fb8c4e46"/>
-				<subreportParameter name="ID_CONTACTO"/>
+				<reportElement x="1" y="46" width="270" height="34" uuid="4f88e023-fafc-4422-87db-948acd6a76ca"/>
+				<subreportParameter name="ID_CONTACTO">
+					<subreportParameterExpression><![CDATA[$F{ID}]]></subreportParameterExpression>
+				</subreportParameter>
 				<connectionExpression><![CDATA[$P{REPORT_CONNECTION}]]></connectionExpression>
 				<subreportExpression><![CDATA[$P{SUBREPORT_DIR} + "subInforme1.jasper"]]></subreportExpression>
 			</subreport>
 			<subreport>
-				<reportElement x="283" y="46" width="270" height="100" uuid="b59fb078-60c4-4524-a45a-9d09d1c20a9a"/>
-				<subreportParameter name="ID_CONTACTO"/>
+				<reportElement x="285" y="46" width="270" height="34" uuid="169d0262-8774-4d1d-8f64-0696ada27c16"/>
+				<subreportParameter name="ID_CONTACTO">
+					<subreportParameterExpression><![CDATA[$F{ID}]]></subreportParameterExpression>
+				</subreportParameter>
 				<connectionExpression><![CDATA[$P{REPORT_CONNECTION}]]></connectionExpression>
 				<subreportExpression><![CDATA[$P{SUBREPORT_DIR} + "subInforme2.jasper"]]></subreportExpression>
 			</subreport>
