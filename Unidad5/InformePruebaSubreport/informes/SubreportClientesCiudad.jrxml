@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jasperReport xmlns="http://jasperreports.sourceforge.net/jasperreports" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://jasperreports.sourceforge.net/jasperreports http://jasperreports.sourceforge.net/xsd/jasperreport.xsd" name="SubreportClientesCiudad" language="groovy" pageWidth="391" pageHeight="842" columnWidth="391" leftMargin="0" rightMargin="0" topMargin="0" bottomMargin="0" uuid="5934131e-ade8-45e4-8001-9f659c276594">
+	<property name="ireport.zoom" value="1.0"/>
+	<property name="ireport.x" value="0"/>
+	<property name="ireport.y" value="0"/>
+	<parameter name="parameterCiudad" class="java.lang.String"/>
+	<queryString>
+		<![CDATA[SELECT FIRSTNAME,LASTNAME,STREET FROM ADDRESS WHERE CITY=$P{parameterCiudad}]]>
+	</queryString>
+	<field name="FIRSTNAME" class="java.lang.String"/>
+	<field name="LASTNAME" class="java.lang.String"/>
+	<field name="STREET" class="java.lang.String"/>
+	<background>
+		<band splitType="Stretch"/>
+	</background>
+	<detail>
+		<band height="36" splitType="Stretch">
+			<rectangle>
+				<reportElement x="0" y="0" width="391" height="36" backcolor="#CCFFCC" uuid="3bb822d3-6a7d-4913-95fc-a591522a4903"/>
+			</rectangle>
+			<textField>
+				<reportElement x="0" y="0" width="391" height="36" forecolor="#0033FF" uuid="c8ae63d2-e27d-4e6f-8db9-643b3860efc5"/>
+				<textElement textAlignment="Center" verticalAlignment="Middle"/>
+				<textFieldExpression><![CDATA[$F{FIRSTNAME}+" "+$F{LASTNAME}+" "+$F{STREET}]]></textFieldExpression>
+			</textField>
+			<textField>
+				<reportElement x="17" y="9" width="33" height="20" uuid="3bade688-1db2-42c2-80c3-639b994a1691"/>
+				<textFieldExpression><![CDATA[$V{REPORT_COUNT}]]></textFieldExpression>
+			</textField>
+		</band>
+	</detail>
+</jasperReport>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jasperReport xmlns="http://jasperreports.sourceforge.net/jasperreports" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://jasperreports.sourceforge.net/jasperreports http://jasperreports.sourceforge.net/xsd/jasperreport.xsd" name="reportClientes" language="groovy" pageWidth="595" pageHeight="842" columnWidth="555" leftMargin="20" rightMargin="20" topMargin="20" bottomMargin="20" uuid="a16e735d-06ee-43ab-9d4c-9df5053dabb2">
+	<property name="ireport.zoom" value="1.0"/>
+	<property name="ireport.x" value="0"/>
+	<property name="ireport.y" value="0"/>
+	<parameter name="SUBREPORT_DIR" class="java.lang.String" isForPrompting="false">
+		<defaultValueExpression><![CDATA["C:\\Users\\Eduardo\\Documents\\DAM2_DI_19_20\\Unidad5\\InformePruebaSubreport\\informes\\"]]></defaultValueExpression>
+	</parameter>
+	<queryString>
+		<![CDATA[SELECT CITY FROM ADDRESS GROUP BY CITY ORDER BY CITY]]>
+	</queryString>
+	<field name="CITY" class="java.lang.String"/>
+	<variable name="SUBREPORT_COUNT" class="java.lang.Integer" resetType="None" calculation="System"/>
+	<background>
+		<band splitType="Stretch"/>
+	</background>
+	<title>
+		<band height="43" splitType="Stretch">
+			<staticText>
+				<reportElement x="0" y="0" width="555" height="43" forecolor="#FF0033" uuid="3f232bfd-daf4-4a69-8f30-d921c872827c"/>
+				<textElement textAlignment="Center" verticalAlignment="Middle">
+					<font size="24" isBold="true"/>
+				</textElement>
+				<text><![CDATA[CLIENTES POR CIUDAD - SUBREPORT]]></text>
+			</staticText>
+		</band>
+	</title>
+	<detail>
+		<band height="93" splitType="Stretch">
+			<subreport>
+				<reportElement x="164" y="0" width="391" height="72" uuid="5d270256-a943-4800-9067-5e0a0c0d4141"/>
+				<subreportParameter name="parameterCiudad">
+					<subreportParameterExpression><![CDATA[$F{CITY}]]></subreportParameterExpression>
+				</subreportParameter>
+				<connectionExpression><![CDATA[$P{REPORT_CONNECTION}]]></connectionExpression>
+				<returnValue subreportVariable="REPORT_COUNT" toVariable="SUBREPORT_COUNT"/>
+				<subreportExpression><![CDATA["C:\\Users\\Eduardo\\Documents\\DAM2_DI_19_20\\Unidad5\\InformePruebaSubreport\\informes\\SubreportClientesCiudad.jasper"]]></subreportExpression>
+			</subreport>
+			<rectangle>
+				<reportElement positionType="Float" x="0" y="72" width="555" height="20" backcolor="#CCCCCC" uuid="1a78c5ad-57c9-45c0-bdad-686a4ff02031"/>
+			</rectangle>
+			<textField evaluationTime="Band">
+				<reportElement positionType="Float" x="14" y="72" width="541" height="21" forecolor="#FFFFFF" uuid="1972b75a-8918-4aa1-90be-31cedea90c3a"/>
+				<textElement verticalAlignment="Middle">
+					<font isBold="true"/>
+				</textElement>
+				<textFieldExpression><![CDATA["Número de clientes de "+$F{CITY}+": "+$V{SUBREPORT_COUNT}]]></textFieldExpression>
+			</textField>
+			<staticText>
+				<reportElement x="14" y="4" width="56" height="20" forecolor="#000000" uuid="f998ba44-0cce-4c45-b4fb-1332d0cd9351"/>
+				<textElement verticalAlignment="Middle">
+					<font size="12" isBold="true"/>
+				</textElement>
+				<text><![CDATA[CIUDAD:]]></text>
+			</staticText>
+			<textField>
+				<reportElement x="70" y="4" width="92" height="20" forecolor="#000000" uuid="335280c2-b5d4-42f0-a19e-c6fa00f7b473"/>
+				<textElement verticalAlignment="Middle">
+					<font size="12"/>
+				</textElement>
+				<textFieldExpression><![CDATA[$F{CITY}]]></textFieldExpression>
+			</textField>
+		</band>
+	</detail>
+</jasperReport>
