@@ -1,0 +1,12 @@
+C:\Users\pablo\Desktop\Tema6\AplicacionVideo5\AplicacionVideo5\bin\Debug\AplicacionVideo5.exe.config
+C:\Users\pablo\Desktop\Tema6\AplicacionVideo5\AplicacionVideo5\obj\Debug\MainWindow.baml
+C:\Users\pablo\Desktop\Tema6\AplicacionVideo5\AplicacionVideo5\obj\Debug\MainWindow.g.cs
+C:\Users\pablo\Desktop\Tema6\AplicacionVideo5\AplicacionVideo5\obj\Debug\App.g.cs
+C:\Users\pablo\Desktop\Tema6\AplicacionVideo5\AplicacionVideo5\obj\Debug\AplicacionVideo5_MarkupCompile.cache
+C:\Users\pablo\Desktop\Tema6\AplicacionVideo5\AplicacionVideo5\obj\Debug\AplicacionVideo5.g.resources
+C:\Users\pablo\Desktop\Tema6\AplicacionVideo5\AplicacionVideo5\obj\Debug\AplicacionVideo5.Properties.Resources.resources
+C:\Users\pablo\Desktop\Tema6\AplicacionVideo5\AplicacionVideo5\obj\Debug\AplicacionVideo5.csproj.GenerateResource.Cache
+C:\Users\pablo\Desktop\Tema6\AplicacionVideo5\AplicacionVideo5\bin\Debug\AplicacionVideo5.exe
+C:\Users\pablo\Desktop\Tema6\AplicacionVideo5\AplicacionVideo5\bin\Debug\AplicacionVideo5.pdb
+C:\Users\pablo\Desktop\Tema6\AplicacionVideo5\AplicacionVideo5\obj\Debug\AplicacionVideo5.exe
+C:\Users\pablo\Desktop\Tema6\AplicacionVideo5\AplicacionVideo5\obj\Debug\AplicacionVideo5.pdb

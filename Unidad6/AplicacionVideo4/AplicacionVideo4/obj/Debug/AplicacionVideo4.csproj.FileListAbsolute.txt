@@ -1,0 +1,12 @@
+C:\Users\pablo\Desktop\Tema6\AplicacionVideo4\AplicacionVideo4\bin\Debug\AplicacionVideo4.exe.config
+C:\Users\pablo\Desktop\Tema6\AplicacionVideo4\AplicacionVideo4\bin\Debug\AplicacionVideo4.exe
+C:\Users\pablo\Desktop\Tema6\AplicacionVideo4\AplicacionVideo4\bin\Debug\AplicacionVideo4.pdb
+C:\Users\pablo\Desktop\Tema6\AplicacionVideo4\AplicacionVideo4\obj\Debug\MainWindow.baml
+C:\Users\pablo\Desktop\Tema6\AplicacionVideo4\AplicacionVideo4\obj\Debug\MainWindow.g.cs
+C:\Users\pablo\Desktop\Tema6\AplicacionVideo4\AplicacionVideo4\obj\Debug\App.g.cs
+C:\Users\pablo\Desktop\Tema6\AplicacionVideo4\AplicacionVideo4\obj\Debug\AplicacionVideo4_MarkupCompile.cache
+C:\Users\pablo\Desktop\Tema6\AplicacionVideo4\AplicacionVideo4\obj\Debug\AplicacionVideo4.g.resources
+C:\Users\pablo\Desktop\Tema6\AplicacionVideo4\AplicacionVideo4\obj\Debug\AplicacionVideo4.Properties.Resources.resources
+C:\Users\pablo\Desktop\Tema6\AplicacionVideo4\AplicacionVideo4\obj\Debug\AplicacionVideo4.csproj.GenerateResource.Cache
+C:\Users\pablo\Desktop\Tema6\AplicacionVideo4\AplicacionVideo4\obj\Debug\AplicacionVideo4.exe
+C:\Users\pablo\Desktop\Tema6\AplicacionVideo4\AplicacionVideo4\obj\Debug\AplicacionVideo4.pdb

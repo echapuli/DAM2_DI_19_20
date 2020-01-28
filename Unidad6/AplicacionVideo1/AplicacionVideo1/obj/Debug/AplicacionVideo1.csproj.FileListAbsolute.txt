@@ -1,0 +1,13 @@
+C:\Users\pablo\Desktop\Tema6\AplicacionVideo1\AplicacionVideo1\bin\Debug\AplicacionVideo1.exe.config
+C:\Users\pablo\Desktop\Tema6\AplicacionVideo1\AplicacionVideo1\bin\Debug\AplicacionVideo1.exe
+C:\Users\pablo\Desktop\Tema6\AplicacionVideo1\AplicacionVideo1\bin\Debug\AplicacionVideo1.pdb
+C:\Users\pablo\Desktop\Tema6\AplicacionVideo1\AplicacionVideo1\obj\Debug\AplicacionVideo1.csprojResolveAssemblyReference.cache
+C:\Users\pablo\Desktop\Tema6\AplicacionVideo1\AplicacionVideo1\obj\Debug\MainWindow.baml
+C:\Users\pablo\Desktop\Tema6\AplicacionVideo1\AplicacionVideo1\obj\Debug\MainWindow.g.cs
+C:\Users\pablo\Desktop\Tema6\AplicacionVideo1\AplicacionVideo1\obj\Debug\App.g.cs
+C:\Users\pablo\Desktop\Tema6\AplicacionVideo1\AplicacionVideo1\obj\Debug\AplicacionVideo1_MarkupCompile.cache
+C:\Users\pablo\Desktop\Tema6\AplicacionVideo1\AplicacionVideo1\obj\Debug\AplicacionVideo1.g.resources
+C:\Users\pablo\Desktop\Tema6\AplicacionVideo1\AplicacionVideo1\obj\Debug\AplicacionVideo1.Properties.Resources.resources
+C:\Users\pablo\Desktop\Tema6\AplicacionVideo1\AplicacionVideo1\obj\Debug\AplicacionVideo1.csproj.GenerateResource.Cache
+C:\Users\pablo\Desktop\Tema6\AplicacionVideo1\AplicacionVideo1\obj\Debug\AplicacionVideo1.exe
+C:\Users\pablo\Desktop\Tema6\AplicacionVideo1\AplicacionVideo1\obj\Debug\AplicacionVideo1.pdb
