@@ -1,0 +1,15 @@
+﻿<Window x:Name="VentanaPrincipal" x:Class="PruebaBinding.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="350" Width="525">
+    <Grid>
+        <Label x:Name="label1" Content="{Binding ElementName=VentanaPrincipal, Path=Width}" HorizontalAlignment="Left" Margin="230,35,0,0" VerticalAlignment="Top" Width="31" Height="26"/>
+        <Label Content="Tamaño Ventana:" HorizontalAlignment="Left" Margin="57,35,0,0" VerticalAlignment="Top"/>
+        <Label Content="Ancho" HorizontalAlignment="Left" Margin="172,35,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="label2" Content="{Binding ElementName=VentanaPrincipal, Path=Height}" HorizontalAlignment="Left" Margin="325,35,0,0" VerticalAlignment="Top" Width="31" Height="26"/>
+        <Label Content="Alto" HorizontalAlignment="Left" Margin="278,35,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="TextBox" HorizontalAlignment="Left" Height="23" Margin="172,91,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="120"/>
+        <Label Content="{Binding ElementName=TextBox, Path=Text }" HorizontalAlignment="Left" Margin="139,138,0,0" VerticalAlignment="Top" RenderTransformOrigin="-0.264,-0.081" Width="171"/>
+
+    </Grid>
+</Window>

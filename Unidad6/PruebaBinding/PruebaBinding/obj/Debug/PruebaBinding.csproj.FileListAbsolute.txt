@@ -1,0 +1,25 @@
+C:\Users\Eduardo\Documents\Visual Studio 2012\Projects\PruebaBinding\PruebaBinding\bin\Debug\PruebaBinding.exe.config
+C:\Users\Eduardo\Documents\Visual Studio 2012\Projects\PruebaBinding\PruebaBinding\bin\Debug\PruebaBinding.exe
+C:\Users\Eduardo\Documents\Visual Studio 2012\Projects\PruebaBinding\PruebaBinding\bin\Debug\PruebaBinding.pdb
+C:\Users\Eduardo\Documents\Visual Studio 2012\Projects\PruebaBinding\PruebaBinding\obj\Debug\MainWindow.baml
+C:\Users\Eduardo\Documents\Visual Studio 2012\Projects\PruebaBinding\PruebaBinding\obj\Debug\MainWindow.g.cs
+C:\Users\Eduardo\Documents\Visual Studio 2012\Projects\PruebaBinding\PruebaBinding\obj\Debug\App.g.cs
+C:\Users\Eduardo\Documents\Visual Studio 2012\Projects\PruebaBinding\PruebaBinding\obj\Debug\PruebaBinding_MarkupCompile.cache
+C:\Users\Eduardo\Documents\Visual Studio 2012\Projects\PruebaBinding\PruebaBinding\obj\Debug\PruebaBinding.g.resources
+C:\Users\Eduardo\Documents\Visual Studio 2012\Projects\PruebaBinding\PruebaBinding\obj\Debug\PruebaBinding.Properties.Resources.resources
+C:\Users\Eduardo\Documents\Visual Studio 2012\Projects\PruebaBinding\PruebaBinding\obj\Debug\PruebaBinding.csproj.GenerateResource.Cache
+C:\Users\Eduardo\Documents\Visual Studio 2012\Projects\PruebaBinding\PruebaBinding\obj\Debug\PruebaBinding.exe
+C:\Users\Eduardo\Documents\Visual Studio 2012\Projects\PruebaBinding\PruebaBinding\obj\Debug\PruebaBinding.pdb
+E:\Curso 2019 2020\desarrollo de interfaces\Unidad6\Tareas\PruebaBinding\PruebaBinding\bin\Debug\PruebaBinding.exe.config
+E:\Curso 2019 2020\desarrollo de interfaces\Unidad6\Tareas\PruebaBinding\PruebaBinding\obj\Debug\PruebaBinding.exe
+E:\Curso 2019 2020\desarrollo de interfaces\Unidad6\Tareas\PruebaBinding\PruebaBinding\obj\Debug\PruebaBinding.pdb
+E:\Curso 2019 2020\desarrollo de interfaces\Unidad6\Tareas\PruebaBinding\PruebaBinding\bin\Debug\PruebaBinding.exe
+E:\Curso 2019 2020\desarrollo de interfaces\Unidad6\Tareas\PruebaBinding\PruebaBinding\bin\Debug\PruebaBinding.pdb
+E:\Curso 2019 2020\desarrollo de interfaces\Unidad6\Tareas\PruebaBinding\PruebaBinding\obj\Debug\PruebaBinding.csprojResolveAssemblyReference.cache
+E:\Curso 2019 2020\desarrollo de interfaces\Unidad6\Tareas\PruebaBinding\PruebaBinding\obj\Debug\MainWindow.baml
+E:\Curso 2019 2020\desarrollo de interfaces\Unidad6\Tareas\PruebaBinding\PruebaBinding\obj\Debug\MainWindow.g.cs
+E:\Curso 2019 2020\desarrollo de interfaces\Unidad6\Tareas\PruebaBinding\PruebaBinding\obj\Debug\App.g.cs
+E:\Curso 2019 2020\desarrollo de interfaces\Unidad6\Tareas\PruebaBinding\PruebaBinding\obj\Debug\PruebaBinding_MarkupCompile.cache
+E:\Curso 2019 2020\desarrollo de interfaces\Unidad6\Tareas\PruebaBinding\PruebaBinding\obj\Debug\PruebaBinding.g.resources
+E:\Curso 2019 2020\desarrollo de interfaces\Unidad6\Tareas\PruebaBinding\PruebaBinding\obj\Debug\PruebaBinding.Properties.Resources.resources
+E:\Curso 2019 2020\desarrollo de interfaces\Unidad6\Tareas\PruebaBinding\PruebaBinding\obj\Debug\PruebaBinding.csproj.GenerateResource.Cache

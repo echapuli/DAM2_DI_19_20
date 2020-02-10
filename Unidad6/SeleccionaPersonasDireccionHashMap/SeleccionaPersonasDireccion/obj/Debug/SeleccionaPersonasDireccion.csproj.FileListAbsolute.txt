@@ -1,0 +1,42 @@
+c:\users\eduardo\documents\visual studio 2012\Projects\SeleccionaPersonasDireccion\SeleccionaPersonasDireccion\bin\Debug\SeleccionaPersonasDireccion.exe.config
+c:\users\eduardo\documents\visual studio 2012\Projects\SeleccionaPersonasDireccion\SeleccionaPersonasDireccion\bin\Debug\SeleccionaPersonasDireccion.exe
+c:\users\eduardo\documents\visual studio 2012\Projects\SeleccionaPersonasDireccion\SeleccionaPersonasDireccion\bin\Debug\SeleccionaPersonasDireccion.pdb
+c:\users\eduardo\documents\visual studio 2012\Projects\SeleccionaPersonasDireccion\SeleccionaPersonasDireccion\obj\Debug\SeleccionaPersonasDireccion.csprojResolveAssemblyReference.cache
+c:\users\eduardo\documents\visual studio 2012\Projects\SeleccionaPersonasDireccion\SeleccionaPersonasDireccion\obj\Debug\MainWindow.baml
+c:\users\eduardo\documents\visual studio 2012\Projects\SeleccionaPersonasDireccion\SeleccionaPersonasDireccion\obj\Debug\MainWindow.g.cs
+c:\users\eduardo\documents\visual studio 2012\Projects\SeleccionaPersonasDireccion\SeleccionaPersonasDireccion\obj\Debug\App.g.cs
+c:\users\eduardo\documents\visual studio 2012\Projects\SeleccionaPersonasDireccion\SeleccionaPersonasDireccion\obj\Debug\SeleccionaPersonasDireccion_MarkupCompile.cache
+c:\users\eduardo\documents\visual studio 2012\Projects\SeleccionaPersonasDireccion\SeleccionaPersonasDireccion\obj\Debug\SeleccionaPersonasDireccion.g.resources
+c:\users\eduardo\documents\visual studio 2012\Projects\SeleccionaPersonasDireccion\SeleccionaPersonasDireccion\obj\Debug\SeleccionaPersonasDireccion.Properties.Resources.resources
+c:\users\eduardo\documents\visual studio 2012\Projects\SeleccionaPersonasDireccion\SeleccionaPersonasDireccion\obj\Debug\SeleccionaPersonasDireccion.csproj.GenerateResource.Cache
+c:\users\eduardo\documents\visual studio 2012\Projects\SeleccionaPersonasDireccion\SeleccionaPersonasDireccion\obj\Debug\SeleccionaPersonasDireccion.exe
+c:\users\eduardo\documents\visual studio 2012\Projects\SeleccionaPersonasDireccion\SeleccionaPersonasDireccion\obj\Debug\SeleccionaPersonasDireccion.pdb
+H:\Curso 2019 2020\desarrollo de interfaces\Unidad6\Tareas\SeleccionaPersonasDireccion\SeleccionaPersonasDireccion\bin\Debug\SeleccionaPersonasDireccion.exe.config
+H:\Curso 2019 2020\desarrollo de interfaces\Unidad6\Tareas\SeleccionaPersonasDireccion\SeleccionaPersonasDireccion\obj\Debug\SeleccionaPersonasDireccion.exe
+H:\Curso 2019 2020\desarrollo de interfaces\Unidad6\Tareas\SeleccionaPersonasDireccion\SeleccionaPersonasDireccion\obj\Debug\SeleccionaPersonasDireccion.pdb
+E:\Curso 2019 2020\desarrollo de interfaces\Unidad6\Tareas\SeleccionaPersonasDireccion\SeleccionaPersonasDireccion\bin\Debug\SeleccionaPersonasDireccion.exe.config
+E:\Curso 2019 2020\desarrollo de interfaces\Unidad6\Tareas\SeleccionaPersonasDireccion\SeleccionaPersonasDireccion\obj\Debug\SeleccionaPersonasDireccion.exe
+E:\Curso 2019 2020\desarrollo de interfaces\Unidad6\Tareas\SeleccionaPersonasDireccion\SeleccionaPersonasDireccion\obj\Debug\SeleccionaPersonasDireccion.pdb
+E:\Curso 2019 2020\desarrollo de interfaces\Unidad6\Tareas\SeleccionaPersonasDireccion\SeleccionaPersonasDireccion\obj\Debug\SeleccionaPersonasDireccion.csprojResolveAssemblyReference.cache
+E:\Curso 2019 2020\desarrollo de interfaces\Unidad6\Tareas\SeleccionaPersonasDireccion\SeleccionaPersonasDireccion\obj\Debug\App.g.cs
+E:\Curso 2019 2020\desarrollo de interfaces\Unidad6\Tareas\SeleccionaPersonasDireccion\SeleccionaPersonasDireccion\obj\Debug\SeleccionaPersonasDireccion_MarkupCompile.cache
+E:\Curso 2019 2020\desarrollo de interfaces\Unidad6\Tareas\SeleccionaPersonasDireccion\SeleccionaPersonasDireccion\bin\Debug\SeleccionaPersonasDireccion.exe
+E:\Curso 2019 2020\desarrollo de interfaces\Unidad6\Tareas\SeleccionaPersonasDireccion\SeleccionaPersonasDireccion\bin\Debug\SeleccionaPersonasDireccion.pdb
+E:\Curso 2019 2020\desarrollo de interfaces\Unidad6\Tareas\SeleccionaPersonasDireccion\SeleccionaPersonasDireccion\obj\Debug\MainWindow.baml
+E:\Curso 2019 2020\desarrollo de interfaces\Unidad6\Tareas\SeleccionaPersonasDireccion\SeleccionaPersonasDireccion\obj\Debug\MainWindow.g.cs
+E:\Curso 2019 2020\desarrollo de interfaces\Unidad6\Tareas\SeleccionaPersonasDireccion\SeleccionaPersonasDireccion\obj\Debug\SeleccionaPersonasDireccion.g.resources
+E:\Curso 2019 2020\desarrollo de interfaces\Unidad6\Tareas\SeleccionaPersonasDireccion\SeleccionaPersonasDireccion\obj\Debug\SeleccionaPersonasDireccion.Properties.Resources.resources
+E:\Curso 2019 2020\desarrollo de interfaces\Unidad6\Tareas\SeleccionaPersonasDireccion\SeleccionaPersonasDireccion\obj\Debug\SeleccionaPersonasDireccion.csproj.GenerateResource.Cache
+E:\Curso 2019 2020\desarrollo de interfaces\Unidad6\Tareas\SeleccionaPersonasDireccionHashMap\SeleccionaPersonasDireccion\bin\Debug\SeleccionaPersonasDireccion.exe.config
+E:\Curso 2019 2020\desarrollo de interfaces\Unidad6\Tareas\SeleccionaPersonasDireccionHashMap\SeleccionaPersonasDireccion\obj\Debug\SeleccionaPersonasDireccion.exe
+E:\Curso 2019 2020\desarrollo de interfaces\Unidad6\Tareas\SeleccionaPersonasDireccionHashMap\SeleccionaPersonasDireccion\obj\Debug\SeleccionaPersonasDireccion.pdb
+E:\Curso 2019 2020\desarrollo de interfaces\Unidad6\Tareas\SeleccionaPersonasDireccionHashMap\SeleccionaPersonasDireccion\obj\Debug\SeleccionaPersonasDireccion.csprojResolveAssemblyReference.cache
+E:\Curso 2019 2020\desarrollo de interfaces\Unidad6\Tareas\SeleccionaPersonasDireccionHashMap\SeleccionaPersonasDireccion\obj\Debug\MainWindow.baml
+E:\Curso 2019 2020\desarrollo de interfaces\Unidad6\Tareas\SeleccionaPersonasDireccionHashMap\SeleccionaPersonasDireccion\obj\Debug\MainWindow.g.cs
+E:\Curso 2019 2020\desarrollo de interfaces\Unidad6\Tareas\SeleccionaPersonasDireccionHashMap\SeleccionaPersonasDireccion\obj\Debug\App.g.cs
+E:\Curso 2019 2020\desarrollo de interfaces\Unidad6\Tareas\SeleccionaPersonasDireccionHashMap\SeleccionaPersonasDireccion\obj\Debug\SeleccionaPersonasDireccion_MarkupCompile.cache
+E:\Curso 2019 2020\desarrollo de interfaces\Unidad6\Tareas\SeleccionaPersonasDireccionHashMap\SeleccionaPersonasDireccion\obj\Debug\SeleccionaPersonasDireccion.g.resources
+E:\Curso 2019 2020\desarrollo de interfaces\Unidad6\Tareas\SeleccionaPersonasDireccionHashMap\SeleccionaPersonasDireccion\obj\Debug\SeleccionaPersonasDireccion.Properties.Resources.resources
+E:\Curso 2019 2020\desarrollo de interfaces\Unidad6\Tareas\SeleccionaPersonasDireccionHashMap\SeleccionaPersonasDireccion\obj\Debug\SeleccionaPersonasDireccion.csproj.GenerateResource.Cache
+E:\Curso 2019 2020\desarrollo de interfaces\Unidad6\Tareas\SeleccionaPersonasDireccionHashMap\SeleccionaPersonasDireccion\bin\Debug\SeleccionaPersonasDireccion.exe
+E:\Curso 2019 2020\desarrollo de interfaces\Unidad6\Tareas\SeleccionaPersonasDireccionHashMap\SeleccionaPersonasDireccion\bin\Debug\SeleccionaPersonasDireccion.pdb
