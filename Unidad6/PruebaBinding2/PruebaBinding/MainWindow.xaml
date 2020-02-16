@@ -1,8 +1,0 @@
-﻿<Window x:Name="VentanaPrincipal" x:Class="PruebaBinding.MainWindow"
-        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
-        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
-        Title="MainWindow" Height="423" Width="391" MinWidth="375" MinHeight="375" ResizeMode="NoResize">
-    <Grid x:Name="Contenedor" Width="375" Height="375">
-
-    </Grid>
-</Window>

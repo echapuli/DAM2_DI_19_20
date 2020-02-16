@@ -25,6 +25,7 @@ namespace SeleccionaPersonasDireccion
         private List<Direcciones> listaDirecciones = new List<Direcciones>();
         public MainWindow()
         {
+            //Aplicación que selecciona una persona de la lista de arriba y muestra sus direcciones en la de abajo
             InitializeComponent();
             //relleno lista de personas
             List<Personas> listaPersonas = new List<Personas>();
@@ -74,6 +75,7 @@ namespace SeleccionaPersonasDireccion
         private void Window_SizeChanged_1(object sender, SizeChangedEventArgs e)
         {
             //Si se produce el evento de cambio de tamaño de la ventana, compruebo que no baje de un determinado tamaño, si baja no le dejo cambiarlo
+            //esto se podría hacer poniendo los atributos de Minwidth y MinHeight (pero lo hice para manejar los eventos)
             if (e.NewSize.Width < 525)
             {
                 VentanaPrincipal.Width = 525;

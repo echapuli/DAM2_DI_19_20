@@ -40,3 +40,6 @@ E:\Curso 2019 2020\desarrollo de interfaces\Unidad6\Tareas\SeleccionaPersonasDir
 E:\Curso 2019 2020\desarrollo de interfaces\Unidad6\Tareas\SeleccionaPersonasDireccionHashMap\SeleccionaPersonasDireccion\obj\Debug\SeleccionaPersonasDireccion.csproj.GenerateResource.Cache
 E:\Curso 2019 2020\desarrollo de interfaces\Unidad6\Tareas\SeleccionaPersonasDireccionHashMap\SeleccionaPersonasDireccion\bin\Debug\SeleccionaPersonasDireccion.exe
 E:\Curso 2019 2020\desarrollo de interfaces\Unidad6\Tareas\SeleccionaPersonasDireccionHashMap\SeleccionaPersonasDireccion\bin\Debug\SeleccionaPersonasDireccion.pdb
+C:\Users\Eduardo\Documents\DAM2_DI_19_20\Unidad6\SeleccionaPersonasDireccionHashMap\SeleccionaPersonasDireccion\bin\Debug\SeleccionaPersonasDireccion.exe.config
+C:\Users\Eduardo\Documents\DAM2_DI_19_20\Unidad6\SeleccionaPersonasDireccionHashMap\SeleccionaPersonasDireccion\obj\Debug\SeleccionaPersonasDireccion.exe
+C:\Users\Eduardo\Documents\DAM2_DI_19_20\Unidad6\SeleccionaPersonasDireccionHashMap\SeleccionaPersonasDireccion\obj\Debug\SeleccionaPersonasDireccion.pdb

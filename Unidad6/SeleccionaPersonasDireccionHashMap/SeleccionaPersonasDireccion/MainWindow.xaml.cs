@@ -22,6 +22,7 @@ namespace SeleccionaPersonasDireccion
 
     public partial class MainWindow : Window
     {
+        //ejemplo utilizando Dictionary
         Dictionary<Personas, List<Direcciones>> lpersonas = new Dictionary<Personas, List<Direcciones>>();
 
         public MainWindow()

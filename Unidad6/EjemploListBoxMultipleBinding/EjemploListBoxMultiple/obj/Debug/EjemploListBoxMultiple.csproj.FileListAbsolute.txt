@@ -22,3 +22,15 @@ H:\Curso 2019 2020\desarrollo de interfaces\Unidad6\Tareas\EjemploListBoxMultipl
 H:\Curso 2019 2020\desarrollo de interfaces\Unidad6\Tareas\EjemploListBoxMultipleBinding\EjemploListBoxMultiple\obj\Debug\EjemploListBoxMultiple.g.resources
 H:\Curso 2019 2020\desarrollo de interfaces\Unidad6\Tareas\EjemploListBoxMultipleBinding\EjemploListBoxMultiple\obj\Debug\EjemploListBoxMultiple.Properties.Resources.resources
 H:\Curso 2019 2020\desarrollo de interfaces\Unidad6\Tareas\EjemploListBoxMultipleBinding\EjemploListBoxMultiple\obj\Debug\EjemploListBoxMultiple.csproj.GenerateResource.Cache
+C:\Users\Eduardo\Documents\DAM2_DI_19_20\Unidad6\EjemploListBoxMultipleBinding\EjemploListBoxMultiple\bin\Debug\EjemploListBoxMultiple.exe.config
+C:\Users\Eduardo\Documents\DAM2_DI_19_20\Unidad6\EjemploListBoxMultipleBinding\EjemploListBoxMultiple\obj\Debug\EjemploListBoxMultiple.exe
+C:\Users\Eduardo\Documents\DAM2_DI_19_20\Unidad6\EjemploListBoxMultipleBinding\EjemploListBoxMultiple\obj\Debug\EjemploListBoxMultiple.pdb
+C:\Users\Eduardo\Documents\DAM2_DI_19_20\Unidad6\EjemploListBoxMultipleBinding\EjemploListBoxMultiple\bin\Debug\EjemploListBoxMultiple.exe
+C:\Users\Eduardo\Documents\DAM2_DI_19_20\Unidad6\EjemploListBoxMultipleBinding\EjemploListBoxMultiple\bin\Debug\EjemploListBoxMultiple.pdb
+C:\Users\Eduardo\Documents\DAM2_DI_19_20\Unidad6\EjemploListBoxMultipleBinding\EjemploListBoxMultiple\obj\Debug\MainWindow.baml
+C:\Users\Eduardo\Documents\DAM2_DI_19_20\Unidad6\EjemploListBoxMultipleBinding\EjemploListBoxMultiple\obj\Debug\MainWindow.g.cs
+C:\Users\Eduardo\Documents\DAM2_DI_19_20\Unidad6\EjemploListBoxMultipleBinding\EjemploListBoxMultiple\obj\Debug\App.g.cs
+C:\Users\Eduardo\Documents\DAM2_DI_19_20\Unidad6\EjemploListBoxMultipleBinding\EjemploListBoxMultiple\obj\Debug\EjemploListBoxMultiple_MarkupCompile.cache
+C:\Users\Eduardo\Documents\DAM2_DI_19_20\Unidad6\EjemploListBoxMultipleBinding\EjemploListBoxMultiple\obj\Debug\EjemploListBoxMultiple.g.resources
+C:\Users\Eduardo\Documents\DAM2_DI_19_20\Unidad6\EjemploListBoxMultipleBinding\EjemploListBoxMultiple\obj\Debug\EjemploListBoxMultiple.Properties.Resources.resources
+C:\Users\Eduardo\Documents\DAM2_DI_19_20\Unidad6\EjemploListBoxMultipleBinding\EjemploListBoxMultiple\obj\Debug\EjemploListBoxMultiple.csproj.GenerateResource.Cache

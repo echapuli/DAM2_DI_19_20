@@ -52,7 +52,6 @@ namespace SeleccionaPersonasDireccion
 
             this.DataContext = this;
 
-            listaPersonas.ElementAt(0).Nombre = "Pepe";
 
         }
 

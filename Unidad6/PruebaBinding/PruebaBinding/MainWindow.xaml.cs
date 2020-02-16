@@ -22,6 +22,9 @@ namespace PruebaBinding
     {
         public MainWindow()
         {
+            //hay dos ejemplos de Binding:
+            //ejemplo de binding, mirar código .xaml se mete un binding en los label (alto y ancho) para mostrar el tamaño de la ventana cuando se redimensiona
+            //tambien se metio un label que muestra lo que se va escribiendo en el textbox
             InitializeComponent();
         }
     }

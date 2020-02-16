@@ -48,9 +48,5 @@ namespace EjemploListBoxMultiple
 
         }
 
-        private void ListBox1_GotFocus(object sender, RoutedEventArgs e)
-        {
-            System.Console.Write(e);
-        }
     }
 }

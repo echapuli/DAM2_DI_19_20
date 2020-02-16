@@ -35,3 +35,16 @@ E:\Curso 2019 2020\desarrollo de interfaces\Unidad6\Tareas\EjemploListBoxMultipl
 E:\Curso 2019 2020\desarrollo de interfaces\Unidad6\Tareas\EjemploListBoxMultiple\EjemploListBoxMultiple\obj\Debug\EjemploListBoxMultiple.Properties.Resources.resources
 E:\Curso 2019 2020\desarrollo de interfaces\Unidad6\Tareas\EjemploListBoxMultiple\EjemploListBoxMultiple\obj\Debug\EjemploListBoxMultiple.csproj.GenerateResource.Cache
 E:\Curso 2019 2020\desarrollo de interfaces\Unidad6\Tareas\EjemploListBoxMultiple\EjemploListBoxMultiple\obj\Debug\EjemploListBoxMultiple.csprojResolveAssemblyReference.cache
+C:\Users\Eduardo\Documents\DAM2_DI_19_20\Unidad6\EjemploListBoxMultiple\EjemploListBoxMultiple\bin\Debug\EjemploListBoxMultiple.exe.config
+C:\Users\Eduardo\Documents\DAM2_DI_19_20\Unidad6\EjemploListBoxMultiple\EjemploListBoxMultiple\obj\Debug\EjemploListBoxMultiple.exe
+C:\Users\Eduardo\Documents\DAM2_DI_19_20\Unidad6\EjemploListBoxMultiple\EjemploListBoxMultiple\obj\Debug\EjemploListBoxMultiple.pdb
+C:\Users\Eduardo\Documents\DAM2_DI_19_20\Unidad6\EjemploListBoxMultiple\EjemploListBoxMultiple\bin\Debug\EjemploListBoxMultiple.exe
+C:\Users\Eduardo\Documents\DAM2_DI_19_20\Unidad6\EjemploListBoxMultiple\EjemploListBoxMultiple\bin\Debug\EjemploListBoxMultiple.pdb
+C:\Users\Eduardo\Documents\DAM2_DI_19_20\Unidad6\EjemploListBoxMultiple\EjemploListBoxMultiple\obj\Debug\EjemploListBoxMultiple.csprojResolveAssemblyReference.cache
+C:\Users\Eduardo\Documents\DAM2_DI_19_20\Unidad6\EjemploListBoxMultiple\EjemploListBoxMultiple\obj\Debug\MainWindow.baml
+C:\Users\Eduardo\Documents\DAM2_DI_19_20\Unidad6\EjemploListBoxMultiple\EjemploListBoxMultiple\obj\Debug\MainWindow.g.cs
+C:\Users\Eduardo\Documents\DAM2_DI_19_20\Unidad6\EjemploListBoxMultiple\EjemploListBoxMultiple\obj\Debug\App.g.cs
+C:\Users\Eduardo\Documents\DAM2_DI_19_20\Unidad6\EjemploListBoxMultiple\EjemploListBoxMultiple\obj\Debug\EjemploListBoxMultiple_MarkupCompile.cache
+C:\Users\Eduardo\Documents\DAM2_DI_19_20\Unidad6\EjemploListBoxMultiple\EjemploListBoxMultiple\obj\Debug\EjemploListBoxMultiple.g.resources
+C:\Users\Eduardo\Documents\DAM2_DI_19_20\Unidad6\EjemploListBoxMultiple\EjemploListBoxMultiple\obj\Debug\EjemploListBoxMultiple.Properties.Resources.resources
+C:\Users\Eduardo\Documents\DAM2_DI_19_20\Unidad6\EjemploListBoxMultiple\EjemploListBoxMultiple\obj\Debug\EjemploListBoxMultiple.csproj.GenerateResource.Cache

@@ -3,7 +3,7 @@
         xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
         Title="MainWindow" Height="396" Width="525">
     <Grid>
-        <ListBox x:Name="ListBox1" HorizontalAlignment="Left" Height="180" VerticalAlignment="Top" Width="517" SelectionMode="Multiple" SelectionChanged="ListBox1_SelectionChanged" GotFocus="ListBox1_GotFocus"/>
+        <ListBox x:Name="ListBox1" HorizontalAlignment="Left" Height="180" VerticalAlignment="Top" Width="517" SelectionMode="Multiple" SelectionChanged="ListBox1_SelectionChanged"/>
         <ListBox x:Name="ListBox2" HorizontalAlignment="Left" Height="180" VerticalAlignment="Top" Width="517" Margin="0,182,0,0"/>
     </Grid>
 </Window>

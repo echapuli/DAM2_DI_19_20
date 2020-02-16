@@ -27,3 +27,6 @@ E:\Curso 2019 2020\desarrollo de interfaces\Unidad6\Tareas\SeleccionaPersonasDir
 E:\Curso 2019 2020\desarrollo de interfaces\Unidad6\Tareas\SeleccionaPersonasDireccion\SeleccionaPersonasDireccion\obj\Debug\SeleccionaPersonasDireccion.g.resources
 E:\Curso 2019 2020\desarrollo de interfaces\Unidad6\Tareas\SeleccionaPersonasDireccion\SeleccionaPersonasDireccion\obj\Debug\SeleccionaPersonasDireccion.Properties.Resources.resources
 E:\Curso 2019 2020\desarrollo de interfaces\Unidad6\Tareas\SeleccionaPersonasDireccion\SeleccionaPersonasDireccion\obj\Debug\SeleccionaPersonasDireccion.csproj.GenerateResource.Cache
+C:\Users\Eduardo\Documents\DAM2_DI_19_20\Unidad6\SeleccionaPersonasDireccion\SeleccionaPersonasDireccion\bin\Debug\SeleccionaPersonasDireccion.exe.config
+C:\Users\Eduardo\Documents\DAM2_DI_19_20\Unidad6\SeleccionaPersonasDireccion\SeleccionaPersonasDireccion\obj\Debug\SeleccionaPersonasDireccion.exe
+C:\Users\Eduardo\Documents\DAM2_DI_19_20\Unidad6\SeleccionaPersonasDireccion\SeleccionaPersonasDireccion\obj\Debug\SeleccionaPersonasDireccion.pdb
