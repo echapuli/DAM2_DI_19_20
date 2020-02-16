@@ -1,0 +1,34 @@
+﻿<Window x:Class="IngresosGastos.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="293.3" Width="525" ResizeMode="NoResize">
+    <Grid Margin="0,0,0,238">
+
+        <DataGrid x:Name="DataGridIngresosoGastos" Margin="10,30,9,-229" ItemsSource="{Binding Path=ListaIngresosGastos}" AutoGenerateColumns="False" ScrollViewer.CanContentScroll="False" MouseDoubleClick="DataGridIngresosoGastos_MouseDoubleClick">
+            <DataGrid.Columns>
+                <DataGridTextColumn Width="100" Header="FECHA" Binding="{Binding Path=Fecha}" CanUserResize="False"/>
+                <DataGridTextColumn Width="200" Header="CONCEPTO" Binding="{Binding Path=Concepto}" CanUserReorder="False"/>
+                <DataGridTextColumn Width="90" Header="INGRESO" Binding="{Binding Path=Ingreso}" CanUserReorder="False">
+                    <DataGridTextColumn.CellStyle>
+                        <Style>
+                            <Setter Property="FrameworkElement.HorizontalAlignment" Value="Right"></Setter>
+                            <Setter Property="FrameworkElement.VerticalAlignment" Value="Center"></Setter>
+                        </Style>
+                    </DataGridTextColumn.CellStyle>
+                </DataGridTextColumn>
+                <DataGridTextColumn Width="90" Header="GASTO" Binding="{Binding Path=Gasto}" CanUserReorder="False">
+                    <DataGridTextColumn.CellStyle>
+                        <Style>
+                            <Setter Property="FrameworkElement.HorizontalAlignment" Value="Right"></Setter>
+                            <Setter Property="FrameworkElement.VerticalAlignment" Value="Center"></Setter>
+                        </Style>
+                    </DataGridTextColumn.CellStyle>
+                </DataGridTextColumn>
+            </DataGrid.Columns>
+        </DataGrid>
+
+        <Menu HorizontalAlignment="Left" Height="25" Margin="10,0,0,0" VerticalAlignment="Top" Width="500">
+            <MenuItem Header="Alta" Click="MenuItem_Click_1"/>
+        </Menu>
+    </Grid>
+</Window>

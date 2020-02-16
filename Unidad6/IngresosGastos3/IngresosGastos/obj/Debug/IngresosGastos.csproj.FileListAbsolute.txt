@@ -1,0 +1,59 @@
+c:\users\nm t\documents\visual studio 2012\Projects\IngresosGastos\IngresosGastos\bin\Debug\IngresosGastos.exe.config
+c:\users\nm t\documents\visual studio 2012\Projects\IngresosGastos\IngresosGastos\bin\Debug\IngresosGastos.exe
+c:\users\nm t\documents\visual studio 2012\Projects\IngresosGastos\IngresosGastos\bin\Debug\IngresosGastos.pdb
+c:\users\nm t\documents\visual studio 2012\Projects\IngresosGastos\IngresosGastos\obj\Debug\IngresosGastos.csprojResolveAssemblyReference.cache
+c:\users\nm t\documents\visual studio 2012\Projects\IngresosGastos\IngresosGastos\obj\Debug\MainWindow.baml
+c:\users\nm t\documents\visual studio 2012\Projects\IngresosGastos\IngresosGastos\obj\Debug\MainWindow.g.cs
+c:\users\nm t\documents\visual studio 2012\Projects\IngresosGastos\IngresosGastos\obj\Debug\App.g.cs
+c:\users\nm t\documents\visual studio 2012\Projects\IngresosGastos\IngresosGastos\obj\Debug\IngresosGastos_MarkupCompile.cache
+c:\users\nm t\documents\visual studio 2012\Projects\IngresosGastos\IngresosGastos\obj\Debug\IngresosGastos.g.resources
+c:\users\nm t\documents\visual studio 2012\Projects\IngresosGastos\IngresosGastos\obj\Debug\IngresosGastos.Properties.Resources.resources
+c:\users\nm t\documents\visual studio 2012\Projects\IngresosGastos\IngresosGastos\obj\Debug\IngresosGastos.csproj.GenerateResource.Cache
+c:\users\nm t\documents\visual studio 2012\Projects\IngresosGastos\IngresosGastos\obj\Debug\IngresosGastos.exe
+c:\users\nm t\documents\visual studio 2012\Projects\IngresosGastos\IngresosGastos\obj\Debug\IngresosGastos.pdb
+H:\IngresosGastos\IngresosGastos\bin\Debug\IngresosGastos.exe.config
+H:\IngresosGastos\IngresosGastos\obj\Debug\IngresosGastos.exe
+H:\IngresosGastos\IngresosGastos\obj\Debug\IngresosGastos.pdb
+H:\IngresosGastos\IngresosGastos\bin\Debug\IngresosGastos.exe
+H:\IngresosGastos\IngresosGastos\bin\Debug\IngresosGastos.pdb
+H:\IngresosGastos\IngresosGastos\obj\Debug\IngresosGastos.csprojResolveAssemblyReference.cache
+H:\IngresosGastos\IngresosGastos\obj\Debug\MainWindow.baml
+H:\IngresosGastos\IngresosGastos\obj\Debug\MainWindow.g.cs
+H:\IngresosGastos\IngresosGastos\obj\Debug\App.g.cs
+H:\IngresosGastos\IngresosGastos\obj\Debug\IngresosGastos_MarkupCompile.cache
+H:\IngresosGastos\IngresosGastos\obj\Debug\IngresosGastos.g.resources
+H:\IngresosGastos\IngresosGastos\obj\Debug\IngresosGastos.Properties.Resources.resources
+H:\IngresosGastos\IngresosGastos\obj\Debug\IngresosGastos.csproj.GenerateResource.Cache
+H:\IngresosGastos2\IngresosGastos\bin\Debug\IngresosGastos.exe.config
+H:\IngresosGastos2\IngresosGastos\obj\Debug\IngresosGastos.exe
+H:\IngresosGastos2\IngresosGastos\obj\Debug\IngresosGastos.pdb
+H:\IngresosGastos2\IngresosGastos\obj\Debug\IngresosGastos.csprojResolveAssemblyReference.cache
+H:\IngresosGastos2\IngresosGastos\obj\Debug\gui\MainWindow.baml
+H:\IngresosGastos2\IngresosGastos\obj\Debug\gui\VentanaDialogo.baml
+H:\IngresosGastos2\IngresosGastos\obj\Debug\gui\MainWindow.g.cs
+H:\IngresosGastos2\IngresosGastos\obj\Debug\gui\VentanaDialogo.g.cs
+H:\IngresosGastos2\IngresosGastos\obj\Debug\App.g.cs
+H:\IngresosGastos2\IngresosGastos\obj\Debug\IngresosGastos_MarkupCompile.cache
+H:\IngresosGastos2\IngresosGastos\obj\Debug\IngresosGastos.g.resources
+H:\IngresosGastos2\IngresosGastos\obj\Debug\IngresosGastos.Properties.Resources.resources
+H:\IngresosGastos2\IngresosGastos\obj\Debug\IngresosGastos.csproj.GenerateResource.Cache
+H:\IngresosGastos2\IngresosGastos\bin\Debug\IngresosGastos.exe
+H:\IngresosGastos2\IngresosGastos\bin\Debug\IngresosGastos.pdb
+C:\Users\nm t\Documents\GitHub\DAM2_DI_19_20\Unidad6\IngresosGastos2\IngresosGastos\bin\Debug\IngresosGastos.exe.config
+C:\Users\nm t\Documents\GitHub\DAM2_DI_19_20\Unidad6\IngresosGastos2\IngresosGastos\obj\Debug\IngresosGastos.exe
+C:\Users\nm t\Documents\GitHub\DAM2_DI_19_20\Unidad6\IngresosGastos2\IngresosGastos\obj\Debug\IngresosGastos.pdb
+C:\Users\nm t\Documents\GitHub\DAM2_DI_19_20\Unidad6\IngresosGastos3\IngresosGastos\bin\Debug\IngresosGastos.exe.config
+C:\Users\nm t\Documents\GitHub\DAM2_DI_19_20\Unidad6\IngresosGastos3\IngresosGastos\obj\Debug\IngresosGastos.exe
+C:\Users\nm t\Documents\GitHub\DAM2_DI_19_20\Unidad6\IngresosGastos3\IngresosGastos\obj\Debug\IngresosGastos.pdb
+C:\Users\nm t\Documents\GitHub\DAM2_DI_19_20\Unidad6\IngresosGastos3\IngresosGastos\bin\Debug\IngresosGastos.exe
+C:\Users\nm t\Documents\GitHub\DAM2_DI_19_20\Unidad6\IngresosGastos3\IngresosGastos\bin\Debug\IngresosGastos.pdb
+C:\Users\nm t\Documents\GitHub\DAM2_DI_19_20\Unidad6\IngresosGastos3\IngresosGastos\obj\Debug\IngresosGastos.csprojResolveAssemblyReference.cache
+C:\Users\nm t\Documents\GitHub\DAM2_DI_19_20\Unidad6\IngresosGastos3\IngresosGastos\obj\Debug\gui\MainWindow.baml
+C:\Users\nm t\Documents\GitHub\DAM2_DI_19_20\Unidad6\IngresosGastos3\IngresosGastos\obj\Debug\gui\VentanaDialogo.baml
+C:\Users\nm t\Documents\GitHub\DAM2_DI_19_20\Unidad6\IngresosGastos3\IngresosGastos\obj\Debug\gui\MainWindow.g.cs
+C:\Users\nm t\Documents\GitHub\DAM2_DI_19_20\Unidad6\IngresosGastos3\IngresosGastos\obj\Debug\gui\VentanaDialogo.g.cs
+C:\Users\nm t\Documents\GitHub\DAM2_DI_19_20\Unidad6\IngresosGastos3\IngresosGastos\obj\Debug\App.g.cs
+C:\Users\nm t\Documents\GitHub\DAM2_DI_19_20\Unidad6\IngresosGastos3\IngresosGastos\obj\Debug\IngresosGastos_MarkupCompile.cache
+C:\Users\nm t\Documents\GitHub\DAM2_DI_19_20\Unidad6\IngresosGastos3\IngresosGastos\obj\Debug\IngresosGastos.g.resources
+C:\Users\nm t\Documents\GitHub\DAM2_DI_19_20\Unidad6\IngresosGastos3\IngresosGastos\obj\Debug\IngresosGastos.Properties.Resources.resources
+C:\Users\nm t\Documents\GitHub\DAM2_DI_19_20\Unidad6\IngresosGastos3\IngresosGastos\obj\Debug\IngresosGastos.csproj.GenerateResource.Cache

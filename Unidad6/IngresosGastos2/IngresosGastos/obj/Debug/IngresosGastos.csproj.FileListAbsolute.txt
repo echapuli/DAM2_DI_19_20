@@ -39,3 +39,18 @@ H:\IngresosGastos2\IngresosGastos\obj\Debug\IngresosGastos.Properties.Resources.
 H:\IngresosGastos2\IngresosGastos\obj\Debug\IngresosGastos.csproj.GenerateResource.Cache
 H:\IngresosGastos2\IngresosGastos\bin\Debug\IngresosGastos.exe
 H:\IngresosGastos2\IngresosGastos\bin\Debug\IngresosGastos.pdb
+C:\Users\nm t\Documents\GitHub\DAM2_DI_19_20\Unidad6\IngresosGastos2\IngresosGastos\bin\Debug\IngresosGastos.exe.config
+C:\Users\nm t\Documents\GitHub\DAM2_DI_19_20\Unidad6\IngresosGastos2\IngresosGastos\obj\Debug\IngresosGastos.exe
+C:\Users\nm t\Documents\GitHub\DAM2_DI_19_20\Unidad6\IngresosGastos2\IngresosGastos\obj\Debug\IngresosGastos.pdb
+C:\Users\nm t\Documents\GitHub\DAM2_DI_19_20\Unidad6\IngresosGastos2\IngresosGastos\bin\Debug\IngresosGastos.exe
+C:\Users\nm t\Documents\GitHub\DAM2_DI_19_20\Unidad6\IngresosGastos2\IngresosGastos\bin\Debug\IngresosGastos.pdb
+C:\Users\nm t\Documents\GitHub\DAM2_DI_19_20\Unidad6\IngresosGastos2\IngresosGastos\obj\Debug\IngresosGastos.csprojResolveAssemblyReference.cache
+C:\Users\nm t\Documents\GitHub\DAM2_DI_19_20\Unidad6\IngresosGastos2\IngresosGastos\obj\Debug\gui\MainWindow.baml
+C:\Users\nm t\Documents\GitHub\DAM2_DI_19_20\Unidad6\IngresosGastos2\IngresosGastos\obj\Debug\gui\VentanaDialogo.baml
+C:\Users\nm t\Documents\GitHub\DAM2_DI_19_20\Unidad6\IngresosGastos2\IngresosGastos\obj\Debug\gui\MainWindow.g.cs
+C:\Users\nm t\Documents\GitHub\DAM2_DI_19_20\Unidad6\IngresosGastos2\IngresosGastos\obj\Debug\gui\VentanaDialogo.g.cs
+C:\Users\nm t\Documents\GitHub\DAM2_DI_19_20\Unidad6\IngresosGastos2\IngresosGastos\obj\Debug\App.g.cs
+C:\Users\nm t\Documents\GitHub\DAM2_DI_19_20\Unidad6\IngresosGastos2\IngresosGastos\obj\Debug\IngresosGastos_MarkupCompile.cache
+C:\Users\nm t\Documents\GitHub\DAM2_DI_19_20\Unidad6\IngresosGastos2\IngresosGastos\obj\Debug\IngresosGastos.g.resources
+C:\Users\nm t\Documents\GitHub\DAM2_DI_19_20\Unidad6\IngresosGastos2\IngresosGastos\obj\Debug\IngresosGastos.Properties.Resources.resources
+C:\Users\nm t\Documents\GitHub\DAM2_DI_19_20\Unidad6\IngresosGastos2\IngresosGastos\obj\Debug\IngresosGastos.csproj.GenerateResource.Cache

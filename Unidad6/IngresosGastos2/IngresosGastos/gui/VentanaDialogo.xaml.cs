@@ -22,15 +22,12 @@ namespace IngresosGastos.gui
     public partial class VentanaDialogo : Window
     {
         private LogicaNegocio logicaNegocio;
-        public IngresoGasto ingresoGasto;
         private int posicion;
 
         public VentanaDialogo(LogicaNegocio logicaNegocio)
         {
             InitializeComponent();
             this.logicaNegocio = logicaNegocio;
-            ingresoGasto = new IngresoGasto();
-            this.DataContext = ingresoGasto;
             BInsertar.Content = "Insertar";
 
         }
