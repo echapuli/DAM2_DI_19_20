@@ -40,7 +40,7 @@ namespace IngresosGastos
             //se entraria en modo modificación, al hacer doble click sobre una fila del DataGrid, en caso de que no se seleccione ninguna fila (caso de que este vacia) no hace nada
             if (DataGridIngresosoGastos.SelectedItem != null)
             {
-                VentanaDialogo dialogoLibro = new VentanaDialogo(logicaNegocio,(IngresoGasto)DataGridIngresosoGastos.SelectedItem,DataGridIngresosoGastos.SelectedIndex);
+                VentanaDialogo dialogoLibro = new VentanaDialogo(logicaNegocio, (IngresoGasto)((IngresoGasto)DataGridIngresosoGastos.SelectedItem).Clone(), DataGridIngresosoGastos.SelectedIndex);
                 dialogoLibro.ShowDialog(); //ventana modal
                 //dialogoLibro.Show(); //ventana no modal
             }

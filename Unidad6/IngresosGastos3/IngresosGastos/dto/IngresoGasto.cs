@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace IngresosGastos.dto
 {
-    public class IngresoGasto : INotifyPropertyChanged
+    public class IngresoGasto : INotifyPropertyChanged, ICloneable
     {
         private DateTime fecha;
         private String concepto;
@@ -84,6 +84,11 @@ namespace IngresosGastos.dto
                 this.gasto = value;
                 this.PropertyChanged(this, new PropertyChangedEventArgs("Gasto"));
             }
+        }
+
+        public object Clone()
+        {
+            return this.MemberwiseClone();
         }
     }
 }
